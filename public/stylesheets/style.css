@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  ul {
+    height: 5vh;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    background-color: aliceblue;
+    align-items: center;
+  }
+  
